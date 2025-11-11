@@ -42,8 +42,8 @@ It demonstrates the application of data collection, preprocessing, and analytica
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/fibonacci-market-analyzer.git
-cd fibonacci-market-analyzer
+git clone https://github.com/alankrit100/data_prep_feature.ml.git
+cd data_prep_feature
 
 # (Optional) Create a virtual environment
 python -m venv venv
